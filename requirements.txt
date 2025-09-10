@@ -1,0 +1,7 @@
+gradio
+torch
+sentence-transformers
+transformers
+pytesseract
+Pillow
+sympy
