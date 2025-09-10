@@ -1,0 +1,362 @@
+[
+  {
+    "question": "x + 5 = 12 সমীকরণটি সমাধান করো",
+    "solution": ["x = 7"]
+  },
+  {
+    "question": "2x - 4 = 10 সমীকরণটি সমাধান করো",
+    "solution": ["x = 7"]
+  },
+  {
+    "question": "x^2 - 9 = 0 সমাধান করো",
+    "solution": ["x = 3 অথবা x = -3"]
+  },
+  {
+    "question": "√25 এর মান নির্ণয় করো",
+    "solution": ["√25 = 5"]
+  },
+  {
+    "question": "3x + 2y = 12, x=2 হলে y কত?",
+    "solution": ["y = 3.33"]
+  },
+  {
+    "question": "একটি বৃত্তের ব্যাসার্ধ 7 সেমি হলে ক্ষেত্রফল নির্ণয় করো",
+    "solution": ["ক্ষেত্রফল = 154 বর্গসেমি"]
+  },
+  {
+    "question": "sin 30° এর মান কত?",
+    "solution": ["sin 30° = 1/2"]
+  },
+  {
+    "question": "cos 60° এর মান কত?",
+    "solution": ["cos 60° = 1/2"]
+  },
+  {
+    "question": "tan 45° এর মান কত?",
+    "solution": ["tan 45° = 1"]
+  },
+  {
+    "question": "সমবাহু ত্রিভুজের প্রতিটি বাহু 6 সেমি হলে ক্ষেত্রফল কত?",
+    "solution": ["ক্ষেত্রফল = 15.59 বর্গসেমি"]
+  },
+  {
+    "question": "log 100 এর মান নির্ণয় করো",
+    "solution": ["log 100 = 2 (base 10)"]
+  },
+  {
+    "question": "একটি ঘনকের বাহু 4 সেমি হলে আয়তন নির্ণয় করো",
+    "solution": ["আয়তন = 64 ঘনসেমি"]
+  },
+  {
+    "question": "সমীকরণ x^2 - 5x + 6 = 0 সমাধান করো",
+    "solution": ["x = 2 অথবা x = 3"]
+  },
+  {
+    "question": "sin^2 θ + cos^2 θ এর মান কত?",
+    "solution": ["মান = 1"]
+  },
+  {
+    "question": "সমান্তর ধারার প্রথম পদ 5, পার্থক্য 3, 10ম পদ কত?",
+    "solution": ["10ম পদ = 32"]
+  },
+  {
+    "question": "x^2 + y^2 = 25, x=3 হলে y কত?",
+    "solution": ["y = 4 অথবা y = -4"]
+  },
+  {
+    "question": "1! + 2! + 3! এর মান কত?",
+    "solution": ["1!+2!+3! = 9"]
+  },
+  {
+    "question": "বৃত্তের পরিধি সূত্র কী?",
+    "solution": ["পরিধি = 2πr"]
+  },
+  {
+    "question": "dy/dx (x^2) কত?",
+    "solution": ["dy/dx = 2x"]
+  },
+  {
+    "question": "∫ x dx কত?",
+    "solution": ["∫x dx = (x^2)/2 + C"]
+  },
+
+  {
+    "question": "2x + y = 7, x=2 হলে y কত?",
+    "solution": ["y = 3"]
+  },
+  {
+    "question": "ভেক্টর (2,3) ও (1,4) এর যোগফল নির্ণয় করো",
+    "solution": ["(3,7)"]
+  },
+  {
+    "question": "ভেক্টর (3,4) এর মান নির্ণয় করো",
+    "solution": ["মান = 5"]
+  },
+  {
+    "question": "ম্যাট্রিক্স [[1,2],[3,4]] এর determinant নির্ণয় করো",
+    "solution": ["det = -2"]
+  },
+  {
+    "question": "সমান্তর ধারার যোগফল সূত্র কী?",
+    "solution": ["Sn = n/2 [2a + (n-1)d]"]
+  },
+  {
+    "question": "গুণোত্তর ধারার প্রথম পদ 2, অনুপাত 3, 4র্থ পদ কত?",
+    "solution": ["4র্থ পদ = 54"]
+  },
+  {
+    "question": "sin 0° এর মান কত?",
+    "solution": ["sin 0° = 0"]
+  },
+  {
+    "question": "cos 90° এর মান কত?",
+    "solution": ["cos 90° = 0"]
+  },
+  {
+    "question": "tan 0° এর মান কত?",
+    "solution": ["tan 0° = 0"]
+  },
+  {
+    "question": "x^2 - 16 = 0 সমাধান করো",
+    "solution": ["x = 4 অথবা x = -4"]
+  },
+  {
+    "question": "log 1000 এর মান নির্ণয় করো",
+    "solution": ["log 1000 = 3 (base 10)"]
+  },
+  {
+    "question": "∫ cos x dx কত?",
+    "solution": ["∫cos x dx = sin x + C"]
+  },
+  {
+    "question": "d/dx (sin x) কত?",
+    "solution": ["cos x"]
+  },
+  {
+    "question": "d/dx (cos x) কত?",
+    "solution": ["-sin x"]
+  },
+  {
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য 8, প্রস্থ 5, ক্ষেত্রফল কত?",
+    "solution": ["ক্ষেত্রফল = 40"]
+  },
+  {
+    "question": "√49 এর মান কত?",
+    "solution": ["√49 = 7"]
+  },
+  {
+    "question": "P(A) = 1/2, P(B) = 1/3 হলে P(A∩B) (স্বাধীন) কত?",
+    "solution": ["P(A∩B) = 1/6"]
+  },
+  {
+    "question": "P(A) = 0.6, P(B) = 0.5 হলে P(A∪B) (স্বাধীন) কত?",
+    "solution": ["P(A∪B) = 0.8"]
+  },
+  {
+    "question": "ভেক্টর (1,2) ও (2,1) এর dot product কত?",
+    "solution": ["dot = 4"]
+  },
+  {
+    "question": "ভেক্টর (1,0,0) ও (0,1,0) এর dot product কত?",
+    "solution": ["dot = 0"]
+  },
+
+  {
+    "question": "2^5 এর মান কত?",
+    "solution": ["32"]
+  },
+  {
+    "question": "3^4 এর মান কত?",
+    "solution": ["81"]
+  },
+  {
+    "question": "x^2 + 2x + 1 = 0 সমাধান করো",
+    "solution": ["x = -1"]
+  },
+  {
+    "question": "x^2 - 4x + 4 = 0 সমাধান করো",
+    "solution": ["x = 2"]
+  },
+  {
+    "question": "sin 90° এর মান কত?",
+    "solution": ["1"]
+  },
+  {
+    "question": "cos 0° এর মান কত?",
+    "solution": ["1"]
+  },
+  {
+    "question": "tan 60° এর মান কত?",
+    "solution": ["√3"]
+  },
+  {
+    "question": "dy/dx (ln x) কত?",
+    "solution": ["1/x"]
+  },
+  {
+    "question": "∫ 1/x dx কত?",
+    "solution": ["ln|x| + C"]
+  },
+  {
+    "question": "x^3 - 8 = 0 সমাধান করো",
+    "solution": ["x = 2"]
+  },
+
+  {
+    "question": "একটি সিলিন্ডারের ব্যাসার্ধ 3 ও উচ্চতা 7 হলে আয়তন কত?",
+    "solution": ["আয়তন = 197.92"]
+  },
+  {
+    "question": "একটি গোলকের ব্যাসার্ধ 6 হলে আয়তন কত?",
+    "solution": ["আয়তন = 904.32"]
+  },
+  {
+    "question": "3x + 2 = 11 সমাধান করো",
+    "solution": ["x = 3"]
+  },
+  {
+    "question": "7x - 14 = 0 সমাধান করো",
+    "solution": ["x = 2"]
+  },
+  {
+    "question": "∫ e^x dx কত?",
+    "solution": ["e^x + C"]
+  },
+  {
+    "question": "d/dx (e^x) কত?",
+    "solution": ["e^x"]
+  },
+  {
+    "question": "ভেক্টর (1,2,3) এর মান কত?",
+    "solution": ["√14"]
+  },
+  {
+    "question": "ম্যাট্রিক্স [[2,0],[0,2]] এর determinant কত?",
+    "solution": ["det = 4"]
+  },
+  {
+    "question": "গুণোত্তর ধারার যোগফল সূত্র কী?",
+    "solution": ["Sn = a(1-r^n)/(1-r)"]
+  },
+  {
+    "id": 41,
+    "question": "একটি বৃত্তের ব্যাসার্ধ 7 cm। এর ক্ষেত্রফল কত?",
+    "topic": "Geometry",
+    "solution": "ক্ষেত্রফল = πr² = 3.1416 × 7 × 7 ≈ 153.94 cm²"
+  },
+  {
+    "id": 42,
+    "question": "x + 5 = 12 সমীকরণের সমাধান করুন।",
+    "topic": "Algebra",
+    "solution": "x = 12 - 5 = 7"
+  },
+  {
+    "id": 43,
+    "question": "sin(30°) এর মান কত?",
+    "topic": "Trigonometry",
+    "solution": "sin(30°) = 1/2"
+  },
+  {
+    "id": 44,
+    "question": "একটি পাইপ প্রতি ঘণ্টায় 120 লিটার পানি দেয়। 5 ঘণ্টায় কত লিটার পানি দেবে?",
+    "topic": "Basic Calculations",
+    "solution": "5 × 120 = 600 লিটার"
+  },
+  {
+    "id": 45,
+    "question": "y = 3x + 2 রেখার ঢাল কত?",
+    "topic": "Algebra",
+    "solution": "ঢাল = 3"
+  },
+  {
+    "id": 46,
+    "question": "একটি ডাইস ছোঁড়ার সময় 6 আসার সম্ভাবনা কত?",
+    "topic": "Probability",
+    "solution": "সম্ভাবনা = 1/6"
+  },
+  {
+    "id": 47,
+    "question": "একটি বর্গক্ষেত্রের পার্শ্বের দৈর্ঘ্য 10 cm। এর পরিধি কত?",
+    "topic": "Geometry",
+    "solution": "পরিধি = 4 × 10 = 40 cm"
+  },
+  {
+    "id": 48,
+    "question": "2x - 5 = 9 সমীকরণটি সমাধান করুন।",
+    "topic": "Algebra",
+    "solution": "2x = 14 ⇒ x = 7"
+  },
+  {
+    "id": 49,
+    "question": "tan(45°) এর মান কত?",
+    "topic": "Trigonometry",
+    "solution": "tan(45°) = 1"
+  },
+  {
+    "id": 50,
+    "question": "একটি গাড়ি 60 km/h গতিতে 3 ঘণ্টা চললে কত কিমি যাবে?",
+    "topic": "Basic Calculations",
+    "solution": "দূরত্ব = 60 × 3 = 180 km"
+  },
+  {
+    "id": 51,
+    "question": "x² - 9 = 0 সমীকরণ সমাধান করুন।",
+    "topic": "Algebra",
+    "solution": "x² = 9 ⇒ x = ±3"
+  },
+  {
+    "id": 52,
+    "question": "একটি ত্রিভুজের বাহুগুলোর দৈর্ঘ্য 3, 4, 5 cm। এর ক্ষেত্রফল কত?",
+    "topic": "Geometry",
+    "solution": "ক্ষেত্রফল = √(s(s-a)(s-b)(s-c)) = √(6×3×2×1) = √36 = 6 cm²"
+  },
+  {
+    "id": 53,
+    "question": "sin²θ + cos²θ এর মান কত?",
+    "topic": "Trigonometry",
+    "solution": "sin²θ + cos²θ = 1"
+  },
+  {
+    "id": 54,
+    "question": "একটি কয়েন ছোঁড়ার সময় টেইল আসার সম্ভাবনা কত?",
+    "topic": "Probability",
+    "solution": "সম্ভাবনা = 1/2"
+  },
+  {
+    "id": 55,
+    "question": "f(x) = 2x + 3 হলে f(5) এর মান কত?",
+    "topic": "Algebra",
+    "solution": "f(5) = 2×5 + 3 = 13"
+  },
+  {
+    "id": 56,
+    "question": "একটি বৃত্তের পরিধি 31.4 cm হলে ব্যাসার্ধ কত?",
+    "topic": "Geometry",
+    "solution": "C = 2πr ⇒ r = 31.4 / (2×3.1416) ≈ 5 cm"
+  },
+  {
+    "id": 57,
+    "question": "cos(60°) এর মান কত?",
+    "topic": "Trigonometry",
+    "solution": "cos(60°) = 1/2"
+  },
+  {
+    "id": 58,
+    "question": "একটি গাড়ি প্রতি ঘণ্টায় 50 km যাত্রা করে। 4 ঘণ্টায় কত দূরত্ব যাবে?",
+    "topic": "Basic Calculations",
+    "solution": "দূরত্ব = 50 × 4 = 200 km"
+  },
+  {
+    "id": 59,
+    "question": "x² + 5x + 6 = 0 সমীকরণটি সমাধান করুন।",
+    "topic": "Algebra",
+    "solution": "x² +5x +6 =0 ⇒ (x+2)(x+3)=0 ⇒ x=-2, -3"
+  },
+  {
+    "id": 60,
+    "question": "একটি ত্রিভুজের ভের্তেক্সে কোণ 90°, অপর দুই কোণ 30° এবং 60°। বিপরীত পাশের দৈর্ঘ্য কত যদি সর্বাধিক পাশ 10 cm হয়?",
+    "topic": "Trigonometry",
+    "solution": "ছোট পাশ = 10 × sin30° = 5 cm, মধ্যম পাশ = 10 × sin60° ≈ 8.66 cm"
+  }
+  // Continue similarly up to id:100
+]
