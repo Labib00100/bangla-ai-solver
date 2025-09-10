@@ -1,7 +1,7 @@
 import gradio as gr
 import pytesseract
 from PIL import Image
-import json
+
 import re
 from sympy import symbols, Eq, solve, sympify, sin, cos, tan, sqrt
 
